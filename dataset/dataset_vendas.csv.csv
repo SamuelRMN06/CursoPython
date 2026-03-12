@@ -1,0 +1,101 @@
+order_id,date,product,category,quantity,unit_price,total_price,customer_city,payment_method,sales_channel
+1001,2025-02-01,Mouse,Eletrônicos,1,77,77,Rio de Janeiro,debit_card,online
+1002,2025-02-24,Caneta,Papelaria,1,22,22,São Paulo,credit_card,online
+1003,2025-03-19,Cadeira,Móveis,2,912,1824,São Paulo,debit_card,store
+1004,2025-02-05,Cadeira,Móveis,4,917,3668,São Paulo,debit_card,store
+1005,2025-01-28,Fone de Ouvido,Eletrônicos,3,239,717,Fortaleza,credit_card,online
+1006,2025-02-14,Mochila,Acessórios,1,202,202,Recife,pix,online
+1007,2025-02-18,Caderno,Papelaria,5,12,60,São Paulo,pix,store
+1008,2025-01-06,Monitor,Eletrônicos,2,1384,2768,Curitiba,debit_card,store
+1009,2025-02-18,Mouse,Eletrônicos,2,66,132,Fortaleza,boleto,store
+1010,2025-01-27,Teclado,Eletrônicos,3,152,456,Curitiba,pix,online
+1011,2025-02-01,Monitor,Eletrônicos,2,1414,2828,Rio de Janeiro,boleto,store
+1012,2025-03-29,Mesa,Móveis,5,1194,5970,Fortaleza,credit_card,online
+1013,2025-02-04,Notebook,Eletrônicos,3,3505,10515,São Paulo,debit_card,store
+1014,2025-03-24,Cadeira,Móveis,4,905,3620,Salvador,debit_card,store
+1015,2025-03-10,Teclado,Eletrônicos,2,165,330,Fortaleza,boleto,store
+1016,2025-03-07,Fone de Ouvido,Eletrônicos,2,238,476,Salvador,credit_card,online
+1017,2025-01-21,Mouse,Eletrônicos,2,100,200,Curitiba,boleto,online
+1018,2025-03-01,Mochila,Acessórios,4,218,872,Recife,pix,online
+1019,2025-03-24,Mouse,Eletrônicos,5,77,385,Fortaleza,credit_card,store
+1020,2025-01-01,Mochila,Acessórios,2,209,418,Curitiba,pix,online
+1021,2025-02-08,Caneta,Papelaria,1,25,25,Curitiba,debit_card,online
+1022,2025-03-09,Fone de Ouvido,Eletrônicos,2,264,528,São Paulo,pix,store
+1023,2025-02-09,Notebook,Eletrônicos,1,3503,3503,Rio de Janeiro,credit_card,online
+1024,2025-03-04,Monitor,Eletrônicos,1,1385,1385,São Paulo,debit_card,online
+1025,2025-02-03,Caderno,Papelaria,5,15,75,Recife,boleto,online
+1026,2025-02-21,Caneta,Papelaria,2,4,8,Curitiba,pix,store
+1027,2025-02-01,Caneta,Papelaria,4,-8,-32,Rio de Janeiro,credit_card,store
+1028,2025-01-30,Notebook,Eletrônicos,5,3515,17575,Recife,debit_card,online
+1029,2025-01-09,Mouse,Eletrônicos,1,74,74,São Paulo,pix,online
+1030,2025-03-27,Caneta,Papelaria,2,2,4,Salvador,debit_card,online
+1031,2025-02-01,Monitor,Eletrônicos,5,1410,7050,Salvador,boleto,online
+1032,2025-02-15,Mouse,Eletrônicos,1,87,87,Salvador,boleto,store
+1033,2025-02-21,Notebook,Eletrônicos,1,3483,3483,Curitiba,pix,online
+1034,2025-03-10,Cadeira,Móveis,2,892,1784,Salvador,debit_card,store
+1035,2025-02-01,Teclado,Eletrônicos,3,159,477,São Paulo,boleto,online
+1036,2025-01-12,Notebook,Eletrônicos,5,3480,17400,Rio de Janeiro,debit_card,store
+1037,2025-02-21,Caderno,Papelaria,4,18,72,São Paulo,debit_card,store
+1038,2025-02-28,Notebook,Eletrônicos,4,3496,13984,Fortaleza,boleto,store
+1039,2025-01-28,Teclado,Eletrônicos,2,148,296,São Paulo,credit_card,store
+1040,2025-03-03,Notebook,Eletrônicos,1,3517,3517,Recife,debit_card,online
+1041,2025-01-09,Caneta,Papelaria,1,-4,-4,Recife,credit_card,online
+1042,2025-02-01,Mochila,Acessórios,1,216,216,Recife,credit_card,online
+1043,2025-03-08,Mochila,Acessórios,5,216,1080,Fortaleza,pix,online
+1044,2025-02-20,Fone de Ouvido,Eletrônicos,2,246,492,Rio de Janeiro,pix,store
+1045,2025-02-28,Fone de Ouvido,Eletrônicos,1,230,230,Recife,credit_card,online
+1046,2025-02-03,Caneta,Papelaria,2,17,34,Rio de Janeiro,pix,online
+1047,2025-01-21,Cadeira,Móveis,3,898,2694,Salvador,pix,online
+1048,2025-01-18,Caneta,Papelaria,3,-9,-27,Fortaleza,credit_card,online
+1049,2025-02-06,Caneta,Papelaria,2,2,4,Recife,debit_card,store
+1050,2025-03-04,Cadeira,Móveis,3,912,2736,Fortaleza,credit_card,online
+1051,2025-01-01,Mochila,Acessórios,3,182,546,Fortaleza,debit_card,store
+1052,2025-04-01,Teclado,Eletrônicos,4,165,660,Salvador,credit_card,online
+1053,2025-01-05,Mouse,Eletrônicos,2,94,188,Fortaleza,debit_card,store
+1054,2025-02-16,Teclado,Eletrônicos,1,149,149,São Paulo,pix,online
+1055,2025-03-13,Cadeira,Móveis,1,902,902,Salvador,debit_card,online
+1056,2025-01-04,Teclado,Eletrônicos,2,156,312,Rio de Janeiro,pix,store
+1057,2025-03-31,Cadeira,Móveis,3,890,2670,São Paulo,boleto,online
+1058,2025-02-28,Caderno,Papelaria,2,17,34,Fortaleza,pix,online
+1059,2025-02-21,Cadeira,Móveis,1,892,892,Fortaleza,pix,online
+1060,2025-02-21,Mesa,Móveis,3,1212,3636,Curitiba,pix,online
+1061,2025-03-16,Mouse,Eletrônicos,3,71,213,Fortaleza,credit_card,online
+1062,2025-02-10,Monitor,Eletrônicos,4,1402,5608,Salvador,credit_card,store
+1063,2025-01-06,Monitor,Eletrônicos,2,1396,2792,Curitiba,boleto,online
+1064,2025-02-16,Caneta,Papelaria,5,-3,-15,Salvador,credit_card,store
+1065,2025-02-08,Monitor,Eletrônicos,3,1387,4161,Recife,pix,store
+1066,2025-03-12,Fone de Ouvido,Eletrônicos,4,248,992,Rio de Janeiro,debit_card,store
+1067,2025-03-14,Mochila,Acessórios,2,219,438,Fortaleza,boleto,online
+1068,2025-02-25,Mesa,Móveis,3,1193,3579,Recife,pix,store
+1069,2025-03-07,Caderno,Papelaria,4,18,72,Salvador,debit_card,online
+1070,2025-03-21,Mesa,Móveis,5,1220,6100,Fortaleza,credit_card,online
+1071,2025-01-19,Mesa,Móveis,2,1192,2384,São Paulo,credit_card,online
+1072,2025-02-28,Caderno,Papelaria,5,9,45,Salvador,debit_card,store
+1073,2025-01-19,Caderno,Papelaria,4,20,80,Curitiba,credit_card,online
+1074,2025-03-31,Mochila,Acessórios,2,191,382,Recife,boleto,online
+1075,2025-02-28,Caneta,Papelaria,2,-8,-16,Rio de Janeiro,boleto,store
+1076,2025-02-24,Caderno,Papelaria,5,37,185,Recife,boleto,online
+1077,2025-02-01,Caderno,Papelaria,4,21,84,Curitiba,pix,store
+1078,2025-01-10,Cadeira,Móveis,3,908,2724,Curitiba,pix,online
+1079,2025-03-11,Mesa,Móveis,3,1200,3600,São Paulo,debit_card,online
+1080,2025-04-01,Cadeira,Móveis,4,889,3556,Rio de Janeiro,credit_card,store
+1081,2025-03-01,Mochila,Acessórios,3,214,642,Salvador,credit_card,online
+1082,2025-03-31,Mochila,Acessórios,4,217,868,São Paulo,boleto,store
+1083,2025-02-19,Notebook,Eletrônicos,3,3499,10497,Salvador,debit_card,store
+1084,2025-03-04,Cadeira,Móveis,3,907,2721,São Paulo,boleto,store
+1085,2025-01-17,Mochila,Acessórios,2,209,418,Recife,credit_card,store
+1086,2025-01-11,Monitor,Eletrônicos,5,1381,6905,Curitiba,boleto,online
+1087,2025-02-03,Caderno,Papelaria,2,8,16,Salvador,pix,online
+1088,2025-02-18,Caderno,Papelaria,3,26,78,Fortaleza,boleto,store
+1089,2025-03-11,Mouse,Eletrônicos,4,61,244,São Paulo,pix,online
+1090,2025-02-01,Mouse,Eletrônicos,1,61,61,Rio de Janeiro,credit_card,online
+1091,2025-03-27,Cadeira,Móveis,2,910,1820,São Paulo,debit_card,store
+1092,2025-03-19,Mesa,Móveis,3,1190,3570,Recife,credit_card,online
+1093,2025-01-04,Mesa,Móveis,1,1217,1217,Fortaleza,boleto,store
+1094,2025-03-30,Cadeira,Móveis,1,917,917,Curitiba,debit_card,online
+1095,2025-03-14,Mesa,Móveis,5,1187,5935,São Paulo,pix,store
+1096,2025-03-24,Fone de Ouvido,Eletrônicos,1,262,262,Fortaleza,credit_card,store
+1097,2025-02-16,Caderno,Papelaria,1,32,32,Curitiba,boleto,online
+1098,2025-03-25,Mochila,Acessórios,2,213,426,Fortaleza,boleto,store
+1099,2025-02-11,Mochila,Acessórios,5,197,985,Rio de Janeiro,credit_card,store
+1100,2025-03-14,Caderno,Papelaria,2,34,68,Recife,boleto,store
