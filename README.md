@@ -46,3 +46,7 @@ Este repositório contém o material de um curso introdutório de **Python volta
 ## Objetivo
 
 Proporcionar uma base sólida em Python e nas principais ferramentas utilizadas no processo de **análise exploratória de dados**, preparando o aluno para projetos práticos de análise.
+
+---
+
+**Nota:** Todas as explicações detalhadas, atividades práticas e gabaritos dos exercícios estão disponíveis em formato de notebooks interativos (`.ipynb`).
